@@ -2,3 +2,7 @@ Pillow
 numpy
 streamlit
 opencv-python
+pandas
+plotly
+cv2
+io
