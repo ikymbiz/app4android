@@ -4,5 +4,3 @@ streamlit
 opencv-python
 pandas
 plotly
-cv2
-io
